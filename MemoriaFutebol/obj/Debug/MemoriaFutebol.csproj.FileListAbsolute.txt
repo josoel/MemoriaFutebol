@@ -1,0 +1,12 @@
+C:\csharp\MemoriaFutebol\MemoriaFutebol\bin\Debug\MemoriaFutebol.exe.config
+C:\csharp\MemoriaFutebol\MemoriaFutebol\bin\Debug\MemoriaFutebol.exe
+C:\csharp\MemoriaFutebol\MemoriaFutebol\bin\Debug\MemoriaFutebol.pdb
+C:\csharp\MemoriaFutebol\MemoriaFutebol\obj\Debug\MemoriaFutebol.csprojAssemblyReference.cache
+C:\csharp\MemoriaFutebol\MemoriaFutebol\obj\Debug\MemoriaFutebol.Properties.Resources.resources
+C:\csharp\MemoriaFutebol\MemoriaFutebol\obj\Debug\MemoriaFutebol.csproj.GenerateResource.cache
+C:\csharp\MemoriaFutebol\MemoriaFutebol\obj\Debug\MemoriaFutebol.csproj.CoreCompileInputs.cache
+C:\csharp\MemoriaFutebol\MemoriaFutebol\obj\Debug\MemoriaFutebol.exe
+C:\csharp\MemoriaFutebol\MemoriaFutebol\obj\Debug\MemoriaFutebol.pdb
+C:\csharp\MemoriaFutebol\MemoriaFutebol\obj\Debug\MemoriaFutebol.form_menu.resources
+C:\csharp\MemoriaFutebol\MemoriaFutebol\obj\Debug\MemoriaFutebol.form_instrucoes.resources
+C:\csharp\MemoriaFutebol\MemoriaFutebol\obj\Debug\MemoriaFutebol.ranking.resources
